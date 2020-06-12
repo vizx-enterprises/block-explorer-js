@@ -1,11 +1,11 @@
-# WrkzCoin-Blockchain-Explorer
-Block explorer for WrkzCoin CryptoNote based cryptocurrency.
+# VizterCoin-Blockchain-Explorer
+Block explorer for VizterCoin.
 
 #### Installation
 
-1) It takes data from daemon Wrkzd. It should be accessible from the Internet. Run Wrkzd with open port as follows:
+1) It takes data from daemon VizterCoind. It should be accessible from the Internet. Run VizterCoind with open port as follows:
 ```bash
-./Wrkzd --enable-cors="*" --enable_blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=17856
+./VizterCoind --enable-cors="*" --enable_blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=17856
 ```
 2) Just upload to your website and change 'api' variable in config.js to point to your daemon.
 
