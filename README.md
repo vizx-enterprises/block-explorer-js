@@ -43,5 +43,9 @@ serve
 ```
 Now go to http://localhost:5000/ or http://yourmachinesipaddess:5000/
 
-You Can Host Our Explorer With Other Hosts Too
-If you need help you can open a issue at this page.
+###### You Can Host Our Explorer With Other Hosts Too
+###### If you need help you can open a issue at this page.
+
+### Adding Your Pool To Our Explorer
+Our Explorer Will Be Able to Sync with Your Pools
+Your Can Create A Request By Opening An Issue With Pool Request Template
