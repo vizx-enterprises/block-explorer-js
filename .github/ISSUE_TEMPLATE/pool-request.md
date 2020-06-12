@@ -2,7 +2,7 @@
 name: Pool Request
 about: Add Your Pool To Our Explorer
 title: ''
-labels: ''
+labels: Pool Request
 assignees: ''
 
 ---
