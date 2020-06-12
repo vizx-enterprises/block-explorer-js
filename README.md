@@ -30,6 +30,7 @@ After That You Can Serve the Sites With Your Hosts
 
 ```bash
 cd block-explorer-js
+#Without Domain
 surge
 #With Domain
 surge yourdomain.xyz
