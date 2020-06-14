@@ -7,7 +7,7 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
  "trtl": [
-	["name", "address"]
+	["pool.vizter.xyz", "http://pool.vizter.xyz"]
  ]
 };
 
